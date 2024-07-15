@@ -1,12 +1,12 @@
 --How to Use:
 
--Register a New User
+-Register a New User: 
 1.Open the app and go to the registration screen.
 2.Enter your email and password, then click "Register".
-Login
 
--Open the app and go to the login screen.
-1.Enter your email and password, then click "Login".
+Login:
+1. Open the app and go to the login screen.
+2. Enter your email and password, then click "Login".
 
 -Built With
 Kotlin: Programming language used
